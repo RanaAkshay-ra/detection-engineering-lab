@@ -9,7 +9,7 @@ logsource:
     category: process_creation
     product: windows
 
-detection:
+detection123:
     selection_image:
         Image|endswith: '\powershell.exe'
 
