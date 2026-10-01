@@ -1,7 +1,7 @@
 title: PowerShell Encoded Command Execution
 id: 5747b9d6-09d8-4de5-9568-cdb89b53c092
 status: experimental
-description: Detects PowerShell execution using an encoded command argument.
+description: Detects PowerShell execution using encoded command arguments for detection testing.
 author: Akshay Rana
 date: 2026-10-01
 
